@@ -1,0 +1,19 @@
+name,date,height,weight,Source
+Jack Smith,4/1/2019,185,91,CSVtest_edited.csv
+Jack Black,4/2/2019,183,91,CSVtest_edited.csv
+Jack Johnson,4/3/2019,186,92,CSVtest_edited.csv
+Brock Bricks,4/10/2019,185,95,CSVtest2_edited.csv
+Jack Brack,6/7/2019,172,91,CSVtest2_edited.csv
+Julie Jackson,8/4/2019,165,85,CSVtest2_edited.csv
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest_edited.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest_edited.xlsx
+Dan Smith,2019-09-02 00:00:00,170,60,EXCELtest_edited.xlsx
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2_edited.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2_edited.xlsx
+Pierce Brosnan,2019-03-02 00:00:00,180,84,EXCELtest2_edited.xlsx
+William Jackson,06/03/2019,175,80,JSONtest3_edited.json
+John Smith,10/02/2019,180,85,JSONtest_edited.json
+Bart Jackson,10/03/2019,182,84,JSONtest2_edited.json
+Jude Smithe,10/08/2019,180,100,XMLtest2_edited.xml
+Jade Smith,04/08/2019,170,70,XMLtest_edited.xml
+Lily Smithe,07/08/2019,170,79,XMLtest3_edited.xml
